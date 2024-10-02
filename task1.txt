@@ -1,0 +1,12 @@
+  
+Create a payment report related to the period [beg, end] groupped by customer.
+Returns the total profit of the period. The input file is .csv
+
+File example:
+
+Client_Id;Date;Payment
+4;27.04.2020;69
+3;02.05.2020;114
+2;02.05.2020;75
+5;07.05.2020;93
+3;09.05.2020;462
